@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Alkalami&display=swap");
+body {
+  font-family: "Alkalami", serif;
+  margin: 0%;
+  padding: 0%;
+  color: black;
+}
+
+#site tr td {
+  border: 1.5px solid black;
+
+}
+#cabeca {
+  color: #fff;
+  text-align: center;
+  background-color: #333
+}
+#menu {
+  text-align: center;
+  background-color: white;
+}
+
+#Corpo{
+    vertical-align: super;
+    background-color: #fff;
+}
+
+.anuncio{
+    color: #fff;
+    text-align: center;
+    background-color: #333;
+}
+
+#hino{
+    font-size: 20px;
+}
+#copy{
+    color: #fff;
+    text-align: center;
+    background-color: #333;
+}
+table tr h2{
+  text-align: center;
+}
